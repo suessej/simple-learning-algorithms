@@ -1,0 +1,1 @@
+Simple Machine Learning Algorithms I wrote by hand following the ideas presented in the DL.ai course material. Datasets also from the course. Notebooks contain some cells from exploration (especially wrt data exploration and visualization)
